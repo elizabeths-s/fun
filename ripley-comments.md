@@ -19,6 +19,6 @@ Ripley is my [loud and energetic](https://my.embarkvet.com/dog/ripley727) dog, a
 
 ## Interactions
 
-Woman at the Centennial Dog Park: [looks at Ripley] "Aww, what a cute Min Pin!"
-Ripley: [barks at woman]
-Woman at the Centennial Dog Park: "Wow, what a high-pitched squeal!"
+Woman at the Centennial Dog Park: [looks at Ripley] "Aww, what a cute Min Pin!"<br>
+Ripley: [barks at woman]<br>
+Woman at the Centennial Dog Park: "Wow, what a high-pitched squeal!"<br>
